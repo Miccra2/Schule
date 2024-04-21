@@ -1,0 +1,6 @@
+# Mainboard
+
+## BIOS
+- Englisch - Basic Input Output System
+- von IBM entwickelt
+- 
